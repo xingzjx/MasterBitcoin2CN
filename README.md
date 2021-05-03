@@ -1,9 +1,5 @@
 ### 目录
 
-[前言](https://github.com/inoutcode/ethereum_book/blob/master/前言.asciidoc)
-
-[术语](https://github.com/inoutcode/ethereum_book/blob/master/术语.asciidoc)
-
 [第一章 介绍](https://github.com/tianmingyun/MasterBitcoin2CN/blob/master/ch01.md)
 
 [第二章 比特币工作原理](https://github.com/tianmingyun/MasterBitcoin2CN/blob/master/ch02.md)
